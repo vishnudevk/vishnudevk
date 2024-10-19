@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishnudevk
-- 👀 I’m interested in Machine Learning, Python and Java
+- 👀 I’m interested in AI, Machine Learning, Python and Java
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me @vishnudevk
